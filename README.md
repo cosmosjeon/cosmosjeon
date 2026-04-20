@@ -1,0 +1,51 @@
+<div align="center">
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Cosmos;Full+Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Tokscale Stats -->
+[![Tokscale Stats](https://tokscale.ai/api/embed/cosmosjeon/svg)](https://tokscale.ai/u/cosmosjeon)
+
+</div>
+
+---
+
+### 🤖 AI & LLM
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Skill Icons](https://skillicons.dev/icons?i=ts,js,python,c,html,css&perline=6)
+![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,hono&perline=6)
+![Skill Icons](https://skillicons.dev/icons?i=supabase,redis,postgres,mongodb,firebase,docker&perline=6)
+![Skill Icons](https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,vscode&perline=6)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cosmosjeon/cosmosjeon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cosmosjeon/cosmosjeon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cosmosjeon/cosmosjeon/output/github-snake-dark.svg" />
+</picture>
+
+</div>
